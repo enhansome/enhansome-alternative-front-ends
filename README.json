@@ -1,0 +1,1897 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Overview"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yt-dlp",
+          "description": "A youtube-dl fork with additional features and fixes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:58:34Z",
+            "owner": "yt-dlp",
+            "repo": "yt-dlp",
+            "stars": 184279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Youtube-dl",
+          "description": "Command-line program to download videos from YouTube.com and other video sites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-19T16:45:25Z",
+            "owner": "ytdl-org",
+            "repo": "youtube-dl",
+            "stars": 140957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NewPipe",
+          "description": "A libre lightweight streaming front-end for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T09:54:20Z",
+            "owner": "TeamNewPipe",
+            "repo": "NewPipe",
+            "stars": 39326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartTubeNext",
+          "description": "SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support \"YouTube TV\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T19:56:56Z",
+            "owner": "yuliskov",
+            "repo": "SmartTube",
+            "stars": 31937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invidious",
+          "description": "Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-12T06:26:12Z",
+            "owner": "iv-org",
+            "repo": "invidious",
+            "stars": 22602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeTube",
+          "description": "Open source YouTube desktop player for privacy on Windows, Mac and Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-12T19:51:34Z",
+            "owner": "FreeTubeApp",
+            "repo": "FreeTube",
+            "stars": 21642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreTube",
+          "description": "Android frontend for YouTube, based on Piped",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T17:17:40Z",
+            "owner": "libre-tube",
+            "repo": "LibreTube",
+            "stars": 12447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piped",
+          "description": "An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public instances: https://github.com/TeamPiped/Piped/wiki/Instances",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vue",
+                "last_commit": "2026-08-13T17:43:56Z",
+                "owner": "TeamPiped",
+                "repo": "Piped",
+                "stars": 10178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Installation guide for self-hosting: https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-18T20:02:01Z",
+                "owner": "TeamPiped",
+                "repo": "documentation",
+                "stars": 65
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-13T17:43:56Z",
+            "owner": "TeamPiped",
+            "repo": "Piped",
+            "stars": 10178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVideoDownloader aka jely2002/youtube-dl-gui",
+          "description": "A cross-platform GUI for youtube-dl made in Electron and node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:41:07Z",
+            "owner": "jely2002",
+            "repo": "youtube-dl-gui",
+            "stars": 9004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mps-youtube",
+          "description": "Terminal based YouTube player and downloader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T18:50:04Z",
+            "owner": "mps-youtube",
+            "repo": "yewtube",
+            "stars": 8778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TubeArchivist",
+          "description": "A self hosted YouTube media server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:47:58Z",
+            "owner": "tubearchivist",
+            "repo": "tubearchivist",
+            "stars": 8363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uYouPlus",
+          "description": "uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Logos",
+            "last_commit": "2025-04-13T15:48:47Z",
+            "owner": "qnblackcat",
+            "repo": "uYouPlus",
+            "stars": 7620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube.js",
+          "description": "Full-featured wrapper around the Innertube API, which is what YouTube itself uses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:35:31Z",
+            "owner": "LuanRT",
+            "repo": "YouTube.js",
+            "stars": 5096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytfzf",
+          "description": "A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-27T07:00:01Z",
+            "owner": "pystardust",
+            "repo": "ytfzf",
+            "stars": 4139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yattee",
+          "description": "Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T21:55:45Z",
+            "owner": "yattee",
+            "repo": "yattee",
+            "stars": 3630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytmdl",
+          "description": "A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-15T09:11:15Z",
+            "owner": "deepjyoti30",
+            "repo": "ytmdl",
+            "stars": 3529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tartube",
+          "description": "A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T09:31:14Z",
+            "owner": "axcore",
+            "repo": "tartube",
+            "stars": 3077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alltube",
+          "description": "Web GUI for youtube-dl",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-04-22T21:24:22Z",
+            "owner": "Rudloff",
+            "repo": "alltube",
+            "stars": 2972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TubeSync",
+          "description": "TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:07:46Z",
+            "owner": "meeb",
+            "repo": "tubesync",
+            "stars": 2772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyTube",
+          "description": "An open-source YouTube app for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T05:52:08Z",
+            "owner": "SkyTubeTeam",
+            "repo": "SkyTube",
+            "stars": 2764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oleksis/youtube-dl-gui",
+          "description": "Cross-platform front-end GUI of the popular youtube-dl written in wxPython",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-13T09:08:12Z",
+            "owner": "oleksis",
+            "repo": "youtube-dl-gui",
+            "stars": 2101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViewTube",
+          "description": "An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:54:15Z",
+            "owner": "ViewTube",
+            "repo": "viewtube",
+            "stars": 1474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Youtube-viewer",
+          "description": "Lightweight YouTube client for Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-06-15T07:58:31Z",
+            "owner": "trizen",
+            "repo": "youtube-viewer",
+            "stars": 1310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vividl",
+          "description": "Modern Windows GUI for youtube-dl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-10T23:14:38Z",
+            "owner": "Bluegrams",
+            "repo": "Vividl",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytcast",
+          "description": "Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the \"Play on TV\" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-03T20:32:44Z",
+            "owner": "MarcoLucidi01",
+            "repo": "ytcast",
+            "stars": 800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "youtube-local",
+          "description": "Browser-based client for watching Youtube anonymously and with greater page performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-14T05:41:14Z",
+            "owner": "user234683",
+            "repo": "youtube-local",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yt-local",
+          "description": "Browser-based client for watching Youtube anonymously without forcing javascript (Fork of youtube-local)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-14T05:41:14Z",
+            "owner": "user234683",
+            "repo": "youtube-local",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipe-viewer",
+          "description": "A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-07-18T17:27:49Z",
+            "owner": "trizen",
+            "repo": "pipe-viewer",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minitube",
+          "description": "Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-18T09:04:30Z",
+            "owner": "flaviotordini",
+            "repo": "minitube",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poketube",
+          "description": "The privacy-friendly youtube front-end built with the InnerTube API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T18:24:39Z",
+            "owner": "ashleyirispuppy143",
+            "repo": "poke",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytdl-gui",
+          "description": "A simple-to-use, cross-platform graphical interface for youtube-dl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-08-30T15:49:34Z",
+            "owner": "JaGoLi",
+            "repo": "ytdl-gui",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytcc",
+          "description": "Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T14:41:54Z",
+            "owner": "woefe",
+            "repo": "ytcc",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plumber",
+          "description": "Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T11:47:42Z",
+            "owner": "keshavbhatt",
+            "repo": "plumber",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invuedious",
+          "description": "An alternative frontend for invidious built with vue.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-01-07T18:32:15Z",
+            "owner": "bocchilorenzo",
+            "repo": "invuedious",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smtube",
+          "description": "Stand-alone YouTube video player",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SMPlayer repository: https://github.com/smplayer-dev/smplayer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-11T07:52:03Z",
+                "owner": "smplayer-dev",
+                "repo": "smplayer",
+                "stars": 1035
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-28T10:43:26Z",
+            "owner": "smplayer-dev",
+            "repo": "smtube",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invidious-viewer",
+          "description": "Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-01-04T07:33:15Z",
+            "owner": "git-bruh",
+            "repo": "invidious-viewer",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackHole",
+          "description": "Android music player app for YouTube Music and Spotify made with Flutter",
+          "children": []
+        }
+      ],
+      "title": "YouTube"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "th-ch/youtube-music",
+          "description": "YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:01:11Z",
+            "owner": "pear-devs",
+            "repo": "pear-desktop",
+            "stars": 33029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytmdesktop",
+          "description": "Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:09:19Z",
+            "owner": "ytmdesktop",
+            "repo": "ytmdesktop",
+            "stars": 6363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beatbump",
+          "description": "An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-10-03T20:49:05Z",
+            "owner": "snuffyDev",
+            "repo": "Beatbump",
+            "stars": 1135
+          }
+        }
+      ],
+      "title": "YouTube Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nitter",
+          "description": "Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public instances: https://github.com/zedeus/nitter/wiki/Instances",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Nim",
+                "last_commit": "2026-08-13T15:44:24Z",
+                "owner": "zedeus",
+                "repo": "nitter",
+                "stars": 13435
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2026-08-13T15:44:24Z",
+            "owner": "zedeus",
+            "repo": "nitter",
+            "stars": 13435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tweepy",
+          "description": "Twitter for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T19:10:57Z",
+            "owner": "tweepy",
+            "repo": "tweepy",
+            "stars": 11177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harpy",
+          "description": "Android, alternative front-end for Twitter, built with Flutter/Dart",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-01T23:32:46Z",
+            "owner": "robertodoering",
+            "repo": "harpy",
+            "stars": 2075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fritter",
+          "description": "A free, open-source Twitter client for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-03T22:01:22Z",
+            "owner": "jonjomckay",
+            "repo": "fritter",
+            "stars": 1444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twidere X",
+          "description": "Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-09-03T21:03:24Z",
+            "owner": "TwidereProject",
+            "repo": "TwidereX-Android",
+            "stars": 994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tweet-app",
+          "description": "Desktop Twitter client only for tweeting. Timeline never shows up",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-17T10:10:47Z",
+            "owner": "rhysd",
+            "repo": "tweet-app",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tweeterr",
+          "description": "A tool to use Twitter from the command line on the fly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T03:36:13Z",
+            "owner": "sherwyn11",
+            "repo": "Tweeterr",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shitter",
+          "description": "Android, alternative front-end for Twitter, built with Java",
+          "children": []
+        }
+      ],
+      "title": "Twitter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Infinity",
+          "description": "Reddit client for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:03:30Z",
+            "owner": "Docile-Alligator",
+            "repo": "Infinity-For-Reddit",
+            "stars": 5420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Libreddit",
+          "description": "Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public instances: https://github.com/libreddit/libreddit-instances/blob/master/instances.md",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-13T01:51:21Z",
+                "owner": "libreddit",
+                "repo": "libreddit-instances",
+                "stars": 108
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-15T19:11:02Z",
+            "owner": "libreddit",
+            "repo": "libreddit",
+            "stars": 5202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slide",
+          "description": "Open source, ad free Reddit browser for Android",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-05-31T02:18:00Z",
+            "owner": "Haptic-Apps",
+            "repo": "Slide",
+            "stars": 1771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Troddit",
+          "description": "A web client for Reddit",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-07-28T00:18:41Z",
+            "owner": "burhan-syed",
+            "repo": "troddit",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dawn",
+          "description": "Open-source Reddit app",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Forked from Dank: https://github.com/saket/Dank",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2022-07-30T19:59:59Z",
+                "owner": "saket",
+                "repo": "Dank",
+                "stars": 814
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-03-27T10:08:40Z",
+            "owner": "Tunous",
+            "repo": "Dawn",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eddrit",
+          "description": "Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:24:02Z",
+            "owner": "corenting",
+            "repo": "eddrit",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snew",
+          "description": "Open-source client for Reddit forked from the Reddit source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-22T14:37:08Z",
+            "owner": "snew",
+            "repo": "snew",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roffline",
+          "description": "A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-01-23T04:32:21Z",
+            "owner": "Darkle",
+            "repo": "Roffline",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Updoot",
+          "description": "Android, alternative front-end for Reddit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-04-18T17:12:43Z",
+            "owner": "adityam49",
+            "repo": "Updoot",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Top of Reddit",
+          "description": "Top Reddit posts every day",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T05:00:19Z",
+            "owner": "mgerb",
+            "repo": "top-of-reddit",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "junipf/reddit-frontend",
+          "description": "A reddit front-end written in React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-09T21:33:55Z",
+            "owner": "junipf",
+            "repo": "reddit-frontend",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xeddit",
+          "description": "A Xamarin.Forms app for Reddit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T09:06:48Z",
+            "owner": "ErlingMK",
+            "repo": "Xeddit",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Teddit",
+          "description": "Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public instances: https://github.com/teddit-net/teddit#instances",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-07-31T05:05:18Z",
+                "owner": "teddit-net",
+                "repo": "teddit",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Github mirror repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-07-31T05:05:18Z",
+                "owner": "teddit-net",
+                "repo": "teddit",
+                "stars": 280
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "RedditClient",
+          "description": "Alternative front-end for Reddit, built with Angular",
+          "children": []
+        }
+      ],
+      "title": "Reddit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Omgur",
+          "description": "Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T20:16:56Z",
+            "owner": "geraldwuhoo",
+            "repo": "omgur",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgrs",
+          "description": "Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-03-22T01:55:12Z",
+            "owner": "geraldwuhoo",
+            "repo": "imgrs",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Imgur"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spotube",
+          "description": "A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T16:03:45Z",
+            "owner": "KRTirtho",
+            "repo": "spotube",
+            "stars": 48333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpotX",
+          "description": "Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-08T11:03:09Z",
+            "owner": "SpotX-Official",
+            "repo": "SpotX",
+            "stars": 22037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spotifyd",
+          "description": "unix daemon, using librespot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-28T17:31:55Z",
+            "owner": "Spotifyd",
+            "repo": "spotifyd",
+            "stars": 10751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "psst",
+          "description": "Fast and multi-platform Spotify client with native GUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T10:04:57Z",
+            "owner": "jpochyla",
+            "repo": "psst",
+            "stars": 9456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "librespot",
+          "description": "Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-15T15:58:05Z",
+            "owner": "librespot-org",
+            "repo": "librespot",
+            "stars": 6958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spot",
+          "description": "Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-13T12:38:46Z",
+            "owner": "xou816",
+            "repo": "spot",
+            "stars": 2376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kotify",
+          "description": "Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-11-29T20:58:40Z",
+            "owner": "dzirbel",
+            "repo": "kotify",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotiqueue",
+          "description": "Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-03T06:32:21Z",
+            "owner": "toothbrush",
+            "repo": "Spotiqueue",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Spotify"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "streamlink-twitch-gui",
+          "description": "Multi platform Twitch.tv browser for Streamlink",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T11:17:03Z",
+            "owner": "streamlink",
+            "repo": "streamlink-twitch-gui",
+            "stars": 2869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xtra",
+          "description": "Twitch player and browser for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T23:21:35Z",
+            "owner": "crackededed",
+            "repo": "Xtra",
+            "stars": 2210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twire",
+          "description": "Alternative and open source Twitch client for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-10T02:22:18Z",
+            "owner": "twireapp",
+            "repo": "Twire",
+            "stars": 1294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElectronPlayer",
+          "description": "Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-08T06:40:11Z",
+            "owner": "oscartbeaumont",
+            "repo": "ElectronPlayer",
+            "stars": 508
+          }
+        }
+      ],
+      "title": "Twitch"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openasar",
+          "description": "An open-source alternative of Discord desktop's app.asar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T02:01:11Z",
+            "owner": "GooseMod",
+            "repo": "OpenAsar",
+            "stars": 3017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gtkcord4",
+          "description": "A lightweight Discord client written in Golang which uses GTK3 for the user interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T01:59:02Z",
+            "owner": "diamondburned",
+            "repo": "dissent",
+            "stars": 1829
+          }
+        }
+      ],
+      "title": "Discord"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SearXNG",
+          "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:20:12Z",
+            "owner": "searxng",
+            "repo": "searxng",
+            "stars": 35420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searx",
+          "description": "Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T10:02:22Z",
+            "owner": "searx",
+            "repo": "searx",
+            "stars": 13534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whoogle Search",
+          "description": "A self-hosted, ad-free, privacy-respecting metasearch engine for Google",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public instances: https://github.com/benbusby/whoogle-search#public-instances",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-04T22:59:14Z",
+                "owner": "benbusby",
+                "repo": "whoogle-search",
+                "stars": 11597
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:59:14Z",
+            "owner": "benbusby",
+            "repo": "whoogle-search",
+            "stars": 11597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreX",
+          "description": "Privacy respecting free meta search engine (free as in freedom)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-01T09:31:27Z",
+            "owner": "hnhx",
+            "repo": "librex",
+            "stars": 843
+          }
+        }
+      ],
+      "title": "Google Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Crow Translate",
+          "description": "Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-07-04T15:06:19Z",
+            "owner": "crow-translate",
+            "repo": "crow-translate",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lingva Translate",
+          "description": "Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public instances: https://github.com/TheDavidDelta/lingva-translate#instances",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-08-01T10:39:09Z",
+                "owner": "thedaviddelta",
+                "repo": "lingva-translate",
+                "stars": 1835
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-01T10:39:09Z",
+            "owner": "thedaviddelta",
+            "repo": "lingva-translate",
+            "stars": 1835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepL Android",
+          "description": "Unofficial Android client for DeepL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-12T11:29:41Z",
+            "owner": "sakusaku3939",
+            "repo": "DeepLAndroid",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimplyTranslate Mobile",
+          "description": "Unofficial Android client of SimplyTranslate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-15T15:26:32Z",
+            "owner": "ManeraKai",
+            "repo": "simplytranslate_mobile",
+            "stars": 208
+          }
+        }
+      ],
+      "title": "Google Translate"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frost",
+          "description": "An extensive and functional third party app for Facebook (Android app)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2023-12-15T05:31:00Z",
+            "owner": "AllanWang",
+            "repo": "Frost-for-Facebook",
+            "stars": 1101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlimSocial",
+          "description": "Android, alternative front-end for Facebook, built with Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-06T14:27:43Z",
+            "owner": "rignaneseleo",
+            "repo": "SlimSocial-for-Facebook",
+            "stars": 519
+          }
+        }
+      ],
+      "title": "Facebook"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tusky",
+          "description": "lightweight Android Mastodon client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-05-23T10:09:37Z",
+            "owner": "tuskyapp",
+            "repo": "Tusky",
+            "stars": 2567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinafore",
+          "description": "Alternative web client for Mastodon, focused on speed and simplicity Unmaintained",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-26T19:28:15Z",
+            "owner": "nolanlawson",
+            "repo": "pinafore",
+            "stars": 1034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sengi",
+          "description": "cross-platform multi-account Mastodon & Pleroma desktop client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-12T22:50:20Z",
+            "owner": "NicolasConstant",
+            "repo": "sengi",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheDesk",
+          "description": "cross-platform Mastodon & Misskey desktop client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-09-03T20:51:30Z",
+            "owner": "cutls",
+            "repo": "TheDesk",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperspace",
+          "description": "cross-platform Mastodon client for the fediverse written in TypeScript and React In maintenance mode",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-06-17T00:00:55Z",
+            "owner": "hyperspacedev",
+            "repo": "hyperspace",
+            "stars": 185
+          }
+        }
+      ],
+      "title": "Mastodon"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RPiPlay",
+          "description": "An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-14T06:04:03Z",
+            "owner": "FD-",
+            "repo": "RPiPlay",
+            "stars": 5213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "air-pi-play",
+          "description": "Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-03-28T13:05:33Z",
+            "owner": "rahul-thakoor",
+            "repo": "balena-rpiplay",
+            "stars": 1426
+          }
+        }
+      ],
+      "title": "Apple AirPlay"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hackerweb",
+          "description": "A simply readable Hacker News web app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-04-22T03:38:32Z",
+            "owner": "cheeaun",
+            "repo": "hackerweb",
+            "stars": 1251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hackers",
+          "description": "a native iOS app for Hacker News",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T14:15:20Z",
+            "owner": "weiran",
+            "repo": "Hackers",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HN-search",
+          "description": "Algolia Hacker News search",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-11-04T05:44:05Z",
+            "owner": "algolia",
+            "repo": "hn-search",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hckrnws",
+          "description": "A custom front-end for a better reading experience of HackerNews",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-01T08:45:34Z",
+            "owner": "rajatkulkarni95",
+            "repo": "hckrnws",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HNTopLinks",
+          "description": "Top Links on Hacker News",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-05T03:58:51Z",
+            "owner": "eguller",
+            "repo": "hntoplinks",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Hacker News"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vaultwarden",
+          "description": "Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T14:46:28Z",
+            "owner": "dani-garcia",
+            "repo": "vaultwarden",
+            "stars": 65368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitea",
+          "description": "Lightweight git server. Git with a cup of tea, painless self-hosted git service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T19:46:25Z",
+            "owner": "go-gitea",
+            "repo": "gitea",
+            "stars": 57358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArchiveBox",
+          "description": "Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:59:56Z",
+            "owner": "ArchiveBox",
+            "repo": "ArchiveBox",
+            "stars": 28110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snapdrop",
+          "description": "Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-10T10:35:43Z",
+            "owner": "SnapDrop",
+            "repo": "snapdrop",
+            "stars": 19710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "etherpad-lite",
+          "description": "Collaborative rich text editor. A modern really-real-time collaborative document editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T15:26:07Z",
+            "owner": "ether",
+            "repo": "etherpad",
+            "stars": 18491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrivateBin",
+          "description": "Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T19:08:57Z",
+            "owner": "PrivateBin",
+            "repo": "PrivateBin",
+            "stars": 8534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hedgedoc",
+          "description": "Collaborative markdown editor. A platform to write and share markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:48:08Z",
+            "owner": "hedgedoc",
+            "repo": "hedgedoc",
+            "stars": 7365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediathekViewWeb",
+          "description": "Video content of German public-service television broadcasters (e.g. ARD, ZDF)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-05-17T18:21:54Z",
+            "owner": "mediathekview",
+            "repo": "mediathekviewweb",
+            "stars": 1176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoPaste",
+          "description": "NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-03T09:57:03Z",
+            "owner": "bokub",
+            "repo": "nopaste",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pastewin",
+          "description": "Free alternative Pastebin front-end",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Wikiless",
+          "description": "A free open source alternative Wikipedia front-end focused on privacy",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public instances: https://github.com/Metastem/wikiless",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Other services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libredirect",
+          "description": "A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T08:51:36Z",
+            "owner": "libredirect",
+            "repo": "browser_extension",
+            "stars": 4000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Privacy Redirect",
+          "description": "A simple web extension that redirects Twitter, YouTube, & Google Maps requests to privacy friendly alternatives",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-05T18:05:25Z",
+            "owner": "SimonBrazell",
+            "repo": "privacy-redirect",
+            "stars": 2192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redirector",
+          "description": "Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-27T19:04:51Z",
+            "owner": "einaregilsson",
+            "repo": "Redirector",
+            "stars": 2073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Farside",
+          "description": "Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:31:12Z",
+            "owner": "benbusby",
+            "repo": "farside",
+            "stars": 952
+          }
+        }
+      ],
+      "title": "Redirection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uBlock Origin",
+          "description": "An efficient blocker for Chromium and Firefox. Fast and lean",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T18:06:36Z",
+            "owner": "gorhill",
+            "repo": "uBlock",
+            "stars": 66944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pluja's Awesome Privacy",
+          "description": "A curated list of services and alternatives that respect your privacy because privacy matters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T12:14:09Z",
+            "owner": "pluja",
+            "repo": "awesome-privacy",
+            "stars": 19475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matrix.org's Synapse",
+          "description": "End-to-end-encrypted messaging. Matrix reference homeserver. See also matrix.org.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-26T15:47:23Z",
+            "owner": "matrix-org",
+            "repo": "synapse",
+            "stars": 12103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreetComplete",
+          "description": "Easy to use OpenStreetMap editor for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T13:14:08Z",
+            "owner": "streetcomplete",
+            "repo": "StreetComplete",
+            "stars": 4753
+          }
+        }
+      ],
+      "title": "Related projects"
+    },
+    {
+      "description": "This overview originally included three alternative front-ends: Invidious (for YouTube), Bibliogram (for Instagram) and Nitter (for Twitter). Therefore it was named . As more projects have been added to the repository, the listed projects partially left the scope of alternative front-ends.\nFor example, is not a front-end, but can be generally described as an open source project that interacts with the internet platform Youtube.\nTherefore the name does not capture the full scope of the listed projects anymore. Maybe this repository will be renamed in the future to better reflect the larger scope. A possible name might be or something similar.",
+      "items": [],
+      "title": "About this repository"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:02:36.854Z",
+    "original_repository": "mendel5/alternative-front-ends",
+    "original_repository_sha": "9b2e0dab2c20632d05b15429d068722bd318a63c",
+    "enhanced_repository": "enhansome/enhansome-alternative-front-ends",
+    "enhanced_repository_description": null,
+    "title": "Awesome alternative-front-ends with stars"
+  }
+}
