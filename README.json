@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T22:26:03Z",
                 "owner": "yt-dlp",
                 "repo": "yt-dlp",
-                "stars": 186466
+                "stars": 186611
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-02-19T16:45:25Z",
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141003
+                "stars": 141008
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-23T06:25:17Z",
                 "owner": "TeamNewPipe",
                 "repo": "NewPipe",
-                "stars": 39463
+                "stars": 39473
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-23T17:01:09Z",
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32243
+                "stars": 32267
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 120542434,
                 "language": "Crystal",
-                "last_commit": "2026-08-23T18:35:03Z",
+                "last_commit": "2026-08-23T20:33:36Z",
                 "owner": "iv-org",
                 "repo": "invidious",
-                "stars": 22743
+                "stars": 22749
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 123220152,
                 "language": "Vue",
-                "last_commit": "2026-08-22T16:11:07Z",
+                "last_commit": "2026-08-24T02:45:31Z",
                 "owner": "FreeTubeApp",
                 "repo": "FreeTube",
-                "stars": 21725
+                "stars": 21735
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 436609718,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T10:43:46Z",
+                "last_commit": "2026-08-24T05:53:46Z",
                 "owner": "libre-tube",
                 "repo": "LibreTube",
-                "stars": 12536
+                "stars": 12545
               }
             },
             {
@@ -127,7 +127,7 @@
                     "last_commit": "2026-08-21T20:02:01Z",
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10197
+                    "stars": 10198
                   }
                 },
                 {
@@ -142,7 +142,7 @@
                     "last_commit": "2026-06-18T20:02:01Z",
                     "owner": "TeamPiped",
                     "repo": "documentation",
-                    "stars": 65
+                    "stars": 66
                   }
                 }
               ],
@@ -153,7 +153,7 @@
                 "last_commit": "2026-08-21T20:02:01Z",
                 "owner": "TeamPiped",
                 "repo": "Piped",
-                "stars": 10197
+                "stars": 10198
               }
             },
             {
@@ -168,7 +168,7 @@
                 "last_commit": "2026-08-11T17:41:07Z",
                 "owner": "jely2002",
                 "repo": "youtube-dl-gui",
-                "stars": 9056
+                "stars": 9061
               }
             },
             {
@@ -213,7 +213,7 @@
                 "last_commit": "2025-04-13T15:48:47Z",
                 "owner": "qnblackcat",
                 "repo": "uYouPlus",
-                "stars": 7609
+                "stars": 7608
               }
             },
             {
@@ -228,7 +228,7 @@
                 "last_commit": "2026-08-19T16:58:18Z",
                 "owner": "LuanRT",
                 "repo": "YouTube.js",
-                "stars": 5116
+                "stars": 5118
               }
             },
             {
@@ -243,7 +243,7 @@
                 "last_commit": "2024-09-27T07:00:01Z",
                 "owner": "pystardust",
                 "repo": "ytfzf",
-                "stars": 4145
+                "stars": 4144
               }
             },
             {
@@ -258,7 +258,7 @@
                 "last_commit": "2026-08-23T11:05:24Z",
                 "owner": "yattee",
                 "repo": "yattee",
-                "stars": 3649
+                "stars": 3650
               }
             },
             {
@@ -333,7 +333,7 @@
                 "last_commit": "2026-08-12T05:52:08Z",
                 "owner": "SkyTubeTeam",
                 "repo": "SkyTube",
-                "stars": 2774
+                "stars": 2775
               }
             },
             {
@@ -360,7 +360,7 @@
                 "archived": false,
                 "id": 197559490,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:16:31Z",
+                "last_commit": "2026-08-24T10:11:26Z",
                 "owner": "ViewTube",
                 "repo": "viewtube",
                 "stars": 1475
@@ -420,7 +420,7 @@
                 "archived": false,
                 "id": 140805586,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T00:06:22Z",
+                "last_commit": "2026-08-23T21:54:31Z",
                 "owner": "user234683",
                 "repo": "youtube-local",
                 "stars": 773
@@ -435,7 +435,7 @@
                 "archived": false,
                 "id": 140805586,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T00:06:22Z",
+                "last_commit": "2026-08-23T21:54:31Z",
                 "owner": "user234683",
                 "repo": "youtube-local",
                 "stars": 773
@@ -453,7 +453,7 @@
                 "last_commit": "2026-07-18T17:27:49Z",
                 "owner": "trizen",
                 "repo": "pipe-viewer",
-                "stars": 507
+                "stars": 508
               }
             },
             {
@@ -611,7 +611,7 @@
                 "last_commit": "2026-08-21T23:18:58Z",
                 "owner": "pear-devs",
                 "repo": "pear-desktop",
-                "stars": 33158
+                "stars": 33162
               }
             },
             {
@@ -626,7 +626,7 @@
                 "last_commit": "2026-08-18T13:34:53Z",
                 "owner": "ytmdesktop",
                 "repo": "ytmdesktop",
-                "stars": 6404
+                "stars": 6403
               }
             },
             {
@@ -668,7 +668,7 @@
                     "last_commit": "2026-08-22T13:29:40Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13479
+                    "stars": 13482
                   }
                 }
               ],
@@ -679,7 +679,7 @@
                 "last_commit": "2026-08-22T13:29:40Z",
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 13479
+                "stars": 13482
               }
             },
             {
@@ -709,7 +709,7 @@
                 "last_commit": "2024-08-01T23:32:46Z",
                 "owner": "robertodoering",
                 "repo": "harpy",
-                "stars": 2076
+                "stars": 2075
               }
             },
             {
@@ -791,7 +791,7 @@
                 "last_commit": "2026-08-19T17:13:59Z",
                 "owner": "Docile-Alligator",
                 "repo": "Infinity-For-Reddit",
-                "stars": 5429
+                "stars": 5428
               }
             },
             {
@@ -895,7 +895,7 @@
                 "archived": false,
                 "id": 280946652,
                 "language": "Python",
-                "last_commit": "2026-08-17T11:23:52Z",
+                "last_commit": "2026-08-24T11:24:25Z",
                 "owner": "corenting",
                 "repo": "eddrit",
                 "stars": 188
@@ -955,7 +955,7 @@
                 "archived": false,
                 "id": 82889959,
                 "language": "Go",
-                "last_commit": "2026-08-23T05:02:07Z",
+                "last_commit": "2026-08-24T05:04:46Z",
                 "owner": "mgerb",
                 "repo": "top-of-reddit",
                 "stars": 43
@@ -1037,6 +1037,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ProxiTok",
+              "description": "Open source alternative frontend for TikTok made with PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443605948,
+                "language": "PHP",
+                "last_commit": "2025-05-31T18:56:17Z",
+                "owner": "pablouser1",
+                "repo": "ProxiTok",
+                "stars": 2134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TikTok"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Omgur",
               "description": "Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.",
               "children": [],
@@ -1084,7 +1106,7 @@
                 "last_commit": "2026-08-21T13:50:16Z",
                 "owner": "KRTirtho",
                 "repo": "spotube",
-                "stars": 48628
+                "stars": 48642
               }
             },
             {
@@ -1099,7 +1121,7 @@
                 "last_commit": "2026-08-16T08:14:01Z",
                 "owner": "SpotX-Official",
                 "repo": "SpotX",
-                "stars": 22137
+                "stars": 22142
               }
             },
             {
@@ -1114,7 +1136,7 @@
                 "last_commit": "2026-05-28T17:31:55Z",
                 "owner": "Spotifyd",
                 "repo": "spotifyd",
-                "stars": 10756
+                "stars": 10757
               }
             },
             {
@@ -1129,7 +1151,7 @@
                 "last_commit": "2026-08-18T03:13:14Z",
                 "owner": "jpochyla",
                 "repo": "psst",
-                "stars": 9461
+                "stars": 9463
               }
             },
             {
@@ -1144,7 +1166,7 @@
                 "last_commit": "2026-08-22T21:05:17Z",
                 "owner": "librespot-org",
                 "repo": "librespot",
-                "stars": 6970
+                "stars": 6971
               }
             },
             {
@@ -1159,7 +1181,7 @@
                 "last_commit": "2025-10-13T12:38:46Z",
                 "owner": "xou816",
                 "repo": "spot",
-                "stars": 2370
+                "stars": 2369
               }
             },
             {
@@ -1201,6 +1223,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Cider",
+              "description": "Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 429851205,
+                "language": "JavaScript",
+                "last_commit": "2024-12-10T16:07:30Z",
+                "owner": "ciderapp",
+                "repo": "Cider",
+                "stars": 7141
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apple Music"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "streamlink-twitch-gui",
               "description": "Multi platform Twitch.tv browser for Streamlink",
               "children": [],
@@ -1226,7 +1270,7 @@
                 "last_commit": "2026-08-19T21:34:29Z",
                 "owner": "crackededed",
                 "repo": "Xtra",
-                "stars": 2232
+                "stars": 2235
               }
             },
             {
@@ -1293,7 +1337,7 @@
                 "last_commit": "2026-08-09T01:59:02Z",
                 "owner": "diamondburned",
                 "repo": "dissent",
-                "stars": 1836
+                "stars": 1837
               }
             }
           ],
@@ -1315,7 +1359,7 @@
                 "last_commit": "2026-08-22T05:35:24Z",
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 35986
+                "stars": 36034
               }
             },
             {
@@ -1350,7 +1394,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11592
+                    "stars": 11593
                   }
                 }
               ],
@@ -1361,7 +1405,7 @@
                 "last_commit": "2026-08-14T14:12:30Z",
                 "owner": "benbusby",
                 "repo": "whoogle-search",
-                "stars": 11592
+                "stars": 11593
               }
             },
             {
@@ -1418,7 +1462,7 @@
                     "last_commit": "2023-08-01T10:39:09Z",
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1837
+                    "stars": 1838
                   }
                 }
               ],
@@ -1429,7 +1473,7 @@
                 "last_commit": "2023-08-01T10:39:09Z",
                 "owner": "thedaviddelta",
                 "repo": "lingva-translate",
-                "stars": 1837
+                "stars": 1838
               }
             },
             {
@@ -1496,13 +1540,35 @@
                 "last_commit": "2026-08-06T14:27:43Z",
                 "owner": "rignaneseleo",
                 "repo": "SlimSocial-for-Facebook",
-                "stars": 523
+                "stars": 525
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Facebook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Caprine",
+              "description": "Unofficial and privacy-focused Facebook Messenger app with many useful features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42574339,
+                "language": "TypeScript",
+                "last_commit": "2026-01-02T00:12:38Z",
+                "owner": "sindresorhus",
+                "repo": "caprine",
+                "stars": 7387
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Facebook Messenger"
         },
         {
           "children": [
@@ -1590,6 +1656,126 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Libmedium",
+              "description": "Alternative front-end to Medium.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423214699,
+                "language": "HTML",
+                "last_commit": "2024-06-07T09:33:20Z",
+                "owner": "realaravinth",
+                "repo": "libmedium",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Medium"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libremdb",
+              "description": "A FOSS alternative front-end to IMDb.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Public Instances: https://github.com/zyachel/libremdb#instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 471680442,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-19T15:27:58Z",
+                    "owner": "zyachel",
+                    "repo": "libremdb",
+                    "stars": 436
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 471680442,
+                "language": "TypeScript",
+                "last_commit": "2026-04-19T15:27:58Z",
+                "owner": "zyachel",
+                "repo": "libremdb",
+                "stars": 436
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IMDb"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quetre",
+              "description": "A libre front-end for Quora",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Public instances: https://github.com/zyachel/quetre#instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 482524094,
+                    "language": "JavaScript",
+                    "last_commit": "2025-11-06T23:02:00Z",
+                    "owner": "zyachel",
+                    "repo": "quetre",
+                    "stars": 498
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 482524094,
+                "language": "JavaScript",
+                "last_commit": "2025-11-06T23:02:00Z",
+                "owner": "zyachel",
+                "repo": "quetre",
+                "stars": 498
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Quora"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neuters",
+              "description": "An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441245812,
+                "language": "Rust",
+                "last_commit": "2025-12-21T16:40:53Z",
+                "owner": "HookedBehemoth",
+                "repo": "neuters",
+                "stars": 160
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reuters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "RPiPlay",
               "description": "An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.",
               "children": [],
@@ -1622,6 +1808,50 @@
           "description": null,
           "node_type": "group",
           "title": "Apple AirPlay"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SongRec",
+              "description": "Open-source Shazam client for Linux, written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287203573,
+                "language": "Rust",
+                "last_commit": "2026-08-20T18:10:50Z",
+                "owner": "marin-m",
+                "repo": "SongRec",
+                "stars": 1938
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shazam"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Telegram-FOSS",
+              "description": "Unofficial, FOSS-friendly fork of the original Telegram client for Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17017355,
+                "language": "Java",
+                "last_commit": "2024-08-25T10:50:37Z",
+                "owner": "Telegram-FOSS-Team",
+                "repo": "Telegram-FOSS",
+                "stars": 3299
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telegram"
         },
         {
           "children": [
@@ -1719,7 +1949,7 @@
                 "last_commit": "2026-08-22T12:09:35Z",
                 "owner": "dani-garcia",
                 "repo": "vaultwarden",
-                "stars": 65928
+                "stars": 66049
               }
             },
             {
@@ -1731,10 +1961,10 @@
                 "archived": false,
                 "id": 72495579,
                 "language": "Go",
-                "last_commit": "2026-08-23T16:31:22Z",
+                "last_commit": "2026-08-24T11:37:20Z",
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 57559
+                "stars": 57570
               }
             },
             {
@@ -1764,7 +1994,7 @@
                 "last_commit": "2025-02-10T10:35:43Z",
                 "owner": "SnapDrop",
                 "repo": "snapdrop",
-                "stars": 19706
+                "stars": 19705
               }
             },
             {
@@ -1776,10 +2006,10 @@
                 "archived": false,
                 "id": 1529160,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:25:22Z",
+                "last_commit": "2026-08-24T12:38:13Z",
                 "owner": "ether",
                 "repo": "etherpad",
-                "stars": 18502
+                "stars": 18503
               }
             },
             {
@@ -1791,10 +2021,10 @@
                 "archived": false,
                 "id": 62937181,
                 "language": "PHP",
-                "last_commit": "2026-08-20T06:28:59Z",
+                "last_commit": "2026-08-24T11:53:43Z",
                 "owner": "PrivateBin",
                 "repo": "PrivateBin",
-                "stars": 8566
+                "stars": 8568
               }
             },
             {
@@ -1806,7 +2036,7 @@
                 "archived": false,
                 "id": 177987738,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T15:35:36Z",
+                "last_commit": "2026-08-24T08:06:23Z",
                 "owner": "hedgedoc",
                 "repo": "hedgedoc",
                 "stars": 7377
@@ -1839,7 +2069,7 @@
                 "last_commit": "2025-11-03T09:57:03Z",
                 "owner": "bokub",
                 "repo": "nopaste",
-                "stars": 446
+                "stars": 447
               }
             }
           ],
@@ -1865,7 +2095,7 @@
             "last_commit": "2026-08-12T08:51:36Z",
             "owner": "libredirect",
             "repo": "browser_extension",
-            "stars": 4015
+            "stars": 4016
           }
         },
         {
@@ -1931,7 +2161,7 @@
             "last_commit": "2026-08-23T13:37:57Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67234
+            "stars": 67251
           }
         },
         {
@@ -1946,7 +2176,7 @@
             "last_commit": "2026-07-15T12:14:09Z",
             "owner": "pluja",
             "repo": "awesome-privacy",
-            "stars": 19591
+            "stars": 19594
           }
         },
         {
@@ -1973,10 +2203,10 @@
             "archived": false,
             "id": 62446262,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T16:00:00Z",
+            "last_commit": "2026-08-24T11:20:12Z",
             "owner": "streetcomplete",
             "repo": "StreetComplete",
-            "stars": 4764
+            "stars": 4766
           }
         }
       ],
@@ -1984,7 +2214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:41:33.359Z",
+    "last_updated": "2026-08-24T13:51:34.209Z",
     "original_repository": "mendel5/alternative-front-ends",
     "original_repository_id": 254682413,
     "original_repository_sha": "9b2e0dab2c20632d05b15429d068722bd318a63c",
