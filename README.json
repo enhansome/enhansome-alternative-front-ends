@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Unlicense",
                 "last_commit": "2026-08-30T13:58:45Z",
-                "open_issues": 2648,
+                "open_issues": 2653,
                 "owner": "yt-dlp",
                 "repo": "yt-dlp",
-                "stars": 190895,
+                "stars": 191168,
                 "topics": [
                   "cli",
                   "downloader",
@@ -50,7 +50,7 @@
                 "open_issues": 4125,
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141212,
+                "stars": 141229,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:29.767Z"
@@ -68,10 +68,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-31T12:57:33Z",
-                "open_issues": 1458,
+                "open_issues": 1461,
                 "owner": "TeamNewPipe",
                 "repo": "NewPipe",
-                "stars": 39666,
+                "stars": 39684,
                 "topics": [
                   "4k",
                   "android",
@@ -100,11 +100,11 @@
                 "id": 283211901,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-13T00:11:44Z",
-                "open_issues": 712,
+                "last_commit": "2026-09-14T22:31:03Z",
+                "open_issues": 716,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 33412,
+                "stars": 33630,
                 "topics": [
                   "android",
                   "android-tv",
@@ -130,10 +130,10 @@
                 "language": "Crystal",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-11T20:45:26Z",
-                "open_issues": 482,
+                "open_issues": 489,
                 "owner": "iv-org",
                 "repo": "invidious",
-                "stars": 24420,
+                "stars": 24432,
                 "topics": [
                   "agplv3",
                   "hacktoberfest",
@@ -159,11 +159,11 @@
                 "id": 123220152,
                 "language": "Vue",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-13T14:42:37Z",
+                "last_commit": "2026-09-14T20:51:39Z",
                 "open_issues": 312,
                 "owner": "FreeTubeApp",
                 "repo": "FreeTube",
-                "stars": 21911,
+                "stars": 21918,
                 "topics": [
                   "freetube",
                   "privacy",
@@ -191,7 +191,7 @@
                 "open_issues": 161,
                 "owner": "libre-tube",
                 "repo": "LibreTube",
-                "stars": 12691,
+                "stars": 12695,
                 "topics": [
                   "android",
                   "kotlin",
@@ -225,7 +225,7 @@
                     "open_issues": 319,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10238,
+                    "stars": 10242,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -275,7 +275,7 @@
                 "open_issues": 319,
                 "owner": "TeamPiped",
                 "repo": "Piped",
-                "stars": 10238,
+                "stars": 10242,
                 "topics": [
                   "activej",
                   "dearrow",
@@ -308,7 +308,7 @@
                 "open_issues": 75,
                 "owner": "jely2002",
                 "repo": "youtube-dl-gui",
-                "stars": 9186,
+                "stars": 9194,
                 "topics": [
                   "cross-platform-gui",
                   "downloader",
@@ -339,7 +339,7 @@
                 "open_issues": 227,
                 "owner": "mps-youtube",
                 "repo": "yewtube",
-                "stars": 8790,
+                "stars": 8791,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:29.767Z"
@@ -360,7 +360,7 @@
                 "open_issues": 25,
                 "owner": "tubearchivist",
                 "repo": "tubearchivist",
-                "stars": 8441,
+                "stars": 8444,
                 "topics": [
                   "archive",
                   "download-manager",
@@ -410,7 +410,7 @@
                 "open_issues": 102,
                 "owner": "LuanRT",
                 "repo": "YouTube.js",
-                "stars": 5309,
+                "stars": 5313,
                 "topics": [
                   "typescript",
                   "unofficial",
@@ -435,7 +435,7 @@
                 "open_issues": 66,
                 "owner": "pystardust",
                 "repo": "ytfzf",
-                "stars": 4152,
+                "stars": 4153,
                 "topics": [
                   "cli",
                   "dmenu",
@@ -464,7 +464,7 @@
                 "open_issues": 221,
                 "owner": "yattee",
                 "repo": "yattee",
-                "stars": 3684,
+                "stars": 3686,
                 "topics": [
                   "invidious",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 17,
                 "owner": "deepjyoti30",
                 "repo": "ytmdl",
-                "stars": 3530,
+                "stars": 3532,
                 "topics": [
                   "apple-music",
                   "apple-music-api",
@@ -537,7 +537,7 @@
                 "open_issues": 24,
                 "owner": "axcore",
                 "repo": "tartube",
-                "stars": 3120,
+                "stars": 3121,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:29.767Z"
@@ -583,11 +583,11 @@
                 "id": 314975143,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-13T19:20:07Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-14T22:15:10Z",
+                "open_issues": 58,
                 "owner": "meeb",
                 "repo": "tubesync",
-                "stars": 2792,
+                "stars": 2793,
                 "topics": [
                   "media-server",
                   "plex",
@@ -645,7 +645,7 @@
                 "open_issues": 88,
                 "owner": "oleksis",
                 "repo": "youtube-dl-gui",
-                "stars": 2105,
+                "stars": 2104,
                 "topics": [
                   "gui-application",
                   "hacktoberfest",
@@ -670,7 +670,7 @@
                 "id": 197559490,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-11T12:10:51Z",
+                "last_commit": "2026-09-14T19:13:47Z",
                 "open_issues": 76,
                 "owner": "ViewTube",
                 "repo": "viewtube",
@@ -703,10 +703,10 @@
                 "language": "Perl",
                 "license": "Artistic-2.0",
                 "last_commit": "2026-06-15T07:58:31Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "trizen",
                 "repo": "youtube-viewer",
-                "stars": 1314,
+                "stars": 1315,
                 "topics": [
                   "perl",
                   "youtube-viewer"
@@ -881,7 +881,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2024-10-18T09:04:30Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "flaviotordini",
                 "repo": "minitube",
                 "stars": 396,
@@ -1114,11 +1114,11 @@
                 "id": 182306991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T23:40:09Z",
+                "last_commit": "2026-09-14T06:55:19Z",
                 "open_issues": 681,
                 "owner": "pear-devs",
                 "repo": "pear-desktop",
-                "stars": 33469,
+                "stars": 33482,
                 "topics": [
                   "desktop-app",
                   "electron",
@@ -1151,7 +1151,7 @@
                 "open_issues": 353,
                 "owner": "ytmdesktop",
                 "repo": "ytmdesktop",
-                "stars": 6493,
+                "stars": 6498,
                 "topics": [
                   "app",
                   "desktop",
@@ -1239,7 +1239,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14463,
+                    "stars": 14469,
                     "topics": [
                       "nim",
                       "privacy",
@@ -1262,7 +1262,7 @@
                 "open_issues": 156,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14463,
+                "stars": 14469,
                 "topics": [
                   "nim",
                   "privacy",
@@ -1456,7 +1456,7 @@
                 "open_issues": 163,
                 "owner": "Docile-Alligator",
                 "repo": "Infinity-For-Reddit",
-                "stars": 5470,
+                "stars": 5482,
                 "topics": [
                   "android",
                   "java",
@@ -1507,7 +1507,7 @@
                 "open_issues": 196,
                 "owner": "libreddit",
                 "repo": "libreddit",
-                "stars": 5200,
+                "stars": 5202,
                 "topics": [
                   "docker",
                   "front-end",
@@ -1536,7 +1536,7 @@
                 "open_issues": 444,
                 "owner": "Haptic-Apps",
                 "repo": "Slide",
-                "stars": 1771,
+                "stars": 1772,
                 "topics": [
                   "android",
                   "app",
@@ -1634,8 +1634,8 @@
                 "id": 280946652,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T16:23:36Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-14T11:24:27Z",
+                "open_issues": 9,
                 "owner": "corenting",
                 "repo": "eddrit",
                 "stars": 191,
@@ -1739,7 +1739,7 @@
                 "id": 82889959,
                 "language": "Go",
                 "license": null,
-                "last_commit": "2026-09-13T05:03:04Z",
+                "last_commit": "2026-09-14T05:00:42Z",
                 "open_issues": 0,
                 "owner": "mgerb",
                 "repo": "top-of-reddit",
@@ -1974,7 +1974,7 @@
                 "open_issues": 861,
                 "owner": "KRTirtho",
                 "repo": "spotube",
-                "stars": 49149,
+                "stars": 49173,
                 "topics": [
                   "android",
                   "android-client",
@@ -2009,7 +2009,7 @@
                 "open_issues": 2,
                 "owner": "SpotX-Official",
                 "repo": "SpotX",
-                "stars": 22346,
+                "stars": 22356,
                 "topics": [
                   "adblock",
                   "spotify",
@@ -2071,7 +2071,7 @@
                 "open_issues": 153,
                 "owner": "jpochyla",
                 "repo": "psst",
-                "stars": 9479,
+                "stars": 9481,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:29.767Z"
@@ -2092,7 +2092,7 @@
                 "open_issues": 137,
                 "owner": "librespot-org",
                 "repo": "librespot",
-                "stars": 7137,
+                "stars": 7143,
                 "topics": [
                   "librespot",
                   "rust",
@@ -2235,7 +2235,7 @@
                 "id": 15127462,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T10:32:02Z",
+                "last_commit": "2026-09-14T15:39:00Z",
                 "open_issues": 25,
                 "owner": "streamlink",
                 "repo": "streamlink-twitch-gui",
@@ -2272,7 +2272,7 @@
                 "open_issues": 192,
                 "owner": "crackededed",
                 "repo": "Xtra",
-                "stars": 2257,
+                "stars": 2256,
                 "topics": [
                   "android",
                   "f-droid",
@@ -2368,7 +2368,7 @@
                 "open_issues": 63,
                 "owner": "GooseMod",
                 "repo": "OpenAsar",
-                "stars": 3025,
+                "stars": 3026,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:29.767Z"
@@ -2420,11 +2420,11 @@
                 "id": 357241735,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-13T21:26:50Z",
-                "open_issues": 221,
+                "last_commit": "2026-09-14T14:09:03Z",
+                "open_issues": 224,
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 37002,
+                "stars": 37070,
                 "topics": [
                   "bing",
                   "brave",
@@ -2461,7 +2461,7 @@
                 "open_issues": 337,
                 "owner": "searx",
                 "repo": "searx",
-                "stars": 13543,
+                "stars": 13544,
                 "topics": [
                   "metasearch",
                   "metasearch-engine",
@@ -2639,7 +2639,7 @@
                     "open_issues": 46,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1843,
+                    "stars": 1844,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:19:29.767Z"
@@ -2656,7 +2656,7 @@
                 "open_issues": 46,
                 "owner": "thedaviddelta",
                 "repo": "lingva-translate",
-                "stars": 1843,
+                "stars": 1844,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:29.767Z"
@@ -2702,7 +2702,7 @@
                 "open_issues": 11,
                 "owner": "ManeraKai",
                 "repo": "simplytranslate_mobile",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "android",
                   "open-source",
@@ -2756,8 +2756,8 @@
                 "id": 45999168,
                 "language": "Dart",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-13T13:40:38Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-14T20:58:43Z",
+                "open_issues": 13,
                 "owner": "rignaneseleo",
                 "repo": "SlimSocial-for-Facebook",
                 "stars": 533,
@@ -2801,7 +2801,7 @@
                 "open_issues": 293,
                 "owner": "sindresorhus",
                 "repo": "caprine",
-                "stars": 7388,
+                "stars": 7389,
                 "topics": [
                   "app",
                   "caprine",
@@ -3188,7 +3188,7 @@
                 "open_issues": 105,
                 "owner": "FD-",
                 "repo": "RPiPlay",
-                "stars": 5219,
+                "stars": 5220,
                 "topics": [
                   "airplay",
                   "raspberry-pi",
@@ -3445,10 +3445,10 @@
                 "language": "Rust",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-13T14:43:47Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "dani-garcia",
                 "repo": "vaultwarden",
-                "stars": 67356,
+                "stars": 67515,
                 "topics": [
                   "bitwarden",
                   "bitwarden-rs",
@@ -3472,11 +3472,11 @@
                 "id": 72495579,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-13T01:00:57Z",
-                "open_issues": 2459,
+                "last_commit": "2026-09-14T20:15:22Z",
+                "open_issues": 2463,
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 57967,
+                "stars": 57981,
                 "topics": [
                   "bitbucket",
                   "cicd",
@@ -3514,11 +3514,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T21:08:53Z",
+                "last_commit": "2026-09-14T07:26:01Z",
                 "open_issues": 159,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28403,
+                "stars": 28430,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -3546,31 +3546,6 @@
             },
             {
               "node_type": "item",
-              "title": "snapdrop",
-              "description": "Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Progressive Web App for local file sharing ",
-                "homepage": "https://snapdrop.net",
-                "id": 48242990,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2025-02-10T10:35:43Z",
-                "open_issues": 287,
-                "owner": "SnapDrop",
-                "repo": "snapdrop",
-                "stars": 19728,
-                "topics": [
-                  "pwa",
-                  "snapdrop",
-                  "webrtc"
-                ]
-              },
-              "first_seen": "2026-08-29T02:19:29.767Z"
-            },
-            {
-              "node_type": "item",
               "title": "etherpad-lite",
               "description": "Collaborative rich text editor. A modern really-real-time collaborative document editor",
               "children": [],
@@ -3581,11 +3556,11 @@
                 "id": 1529160,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T15:49:25Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-14T15:36:43Z",
+                "open_issues": 30,
                 "owner": "ether",
                 "repo": "etherpad",
-                "stars": 18547,
+                "stars": 18548,
                 "topics": [
                   "collaboration",
                   "collaborative",
@@ -3622,7 +3597,7 @@
                 "open_issues": 214,
                 "owner": "PrivateBin",
                 "repo": "PrivateBin",
-                "stars": 8602,
+                "stars": 8601,
                 "topics": [
                   "crypto",
                   "cryptography",
@@ -3656,7 +3631,7 @@
                 "open_issues": 275,
                 "owner": "hedgedoc",
                 "repo": "hedgedoc",
-                "stars": 7417,
+                "stars": 7419,
                 "topics": [
                   "codimd",
                   "collaboration",
@@ -3735,6 +3710,27 @@
                 ]
               },
               "first_seen": "2026-08-29T02:19:29.767Z"
+            },
+            {
+              "node_type": "item",
+              "title": "snapdrop",
+              "description": "Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The easiest way to share files between devices",
+                "homepage": "snapdrop.me",
+                "id": 1369145622,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-14T18:31:03Z",
+                "open_issues": 0,
+                "owner": "RobinLinus",
+                "repo": "snapdrop",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-09-14T22:35:59.534Z"
             }
           ],
           "description": null,
@@ -3763,7 +3759,7 @@
             "open_issues": 45,
             "owner": "libredirect",
             "repo": "browser_extension",
-            "stars": 4054,
+            "stars": 4056,
             "topics": [
               "bibliogram",
               "chrome-extension",
@@ -3882,11 +3878,11 @@
             "id": 33263118,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T14:09:43Z",
+            "last_commit": "2026-09-14T15:02:20Z",
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67811,
+            "stars": 67837,
             "topics": [
               "blocker",
               "browser-extension",
@@ -3912,10 +3908,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-07-15T12:14:09Z",
-            "open_issues": 589,
+            "open_issues": 590,
             "owner": "pluja",
             "repo": "awesome-privacy",
-            "stars": 19745,
+            "stars": 19752,
             "topics": [
               "alternatives",
               "apps",
@@ -3946,7 +3942,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12101,
+            "stars": 12100,
             "topics": [
               "matrix-org",
               "python"
@@ -3966,11 +3962,11 @@
             "id": 62446262,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T16:37:49Z",
-            "open_issues": 139,
+            "last_commit": "2026-09-14T11:16:18Z",
+            "open_issues": 141,
             "owner": "streetcomplete",
             "repo": "StreetComplete",
-            "stars": 4797,
+            "stars": 4798,
             "topics": [
               "android",
               "editor",
@@ -3987,7 +3983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:29:33.538Z",
+    "last_updated": "2026-09-14T22:35:59.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)",
@@ -3999,7 +3995,7 @@
       "open_issues": 113,
       "owner": "mendel5",
       "repo": "alternative-front-ends",
-      "stars": 9154,
+      "stars": 9158,
       "topics": [
         "adblock",
         "alternative",
