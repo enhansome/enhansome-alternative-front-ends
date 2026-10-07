@@ -42,57 +42,57 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### YouTube
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 195,973 | 🐛 2,683 | 🌐 Python | 📅 2026-09-27: A youtube-dl fork with additional features and fixes
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 196,196 | 🐛 2,686 | 🌐 Python | 📅 2026-09-27: A youtube-dl fork with additional features and fixes
 
-* [Youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,438 | 🐛 4,125 | 🌐 Python | 📅 2026-02-19: Command-line program to download videos from YouTube.com and other video sites
+* [Youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,445 | 🐛 4,123 | 🌐 Python | 📅 2026-02-19: Command-line program to download videos from YouTube.com and other video sites
 
-* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,933 | 🐛 1,466 | 🌐 Java | 📅 2026-10-06: A libre lightweight streaming front-end for Android
+* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,960 | 🐛 1,464 | 🌐 Java | 📅 2026-10-07: A libre lightweight streaming front-end for Android
 
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 34,626 | 🐛 769 | 🌐 Java | 📅 2026-10-06: SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 34,652 | 🐛 768 | 🌐 Java | 📅 2026-10-07: SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
 
-* [Invidious](https://github.com/iv-org/invidious) ⭐ 25,143 | 🐛 494 | 🌐 Crystal | 📅 2026-10-02: Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
+* [Invidious](https://github.com/iv-org/invidious) ⭐ 25,153 | 🐛 494 | 🌐 Crystal | 📅 2026-10-02: Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   * Home page: <https://invidious.io>
   * Invidious instances: <https://docs.invidious.io/instances/>
   * Invidious instances API: <https://api.invidious.io>
   * Installation guide for self-hosting: <https://docs.invidious.io/installation/>
 
-* [FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,014 | 🐛 294 | 🌐 Vue | 📅 2026-10-06: Open source YouTube desktop player for privacy on Windows, Mac and Linux
+* [FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,023 | 🐛 291 | 🌐 Vue | 📅 2026-10-07: Open source YouTube desktop player for privacy on Windows, Mac and Linux
   * Official Instance: <https://freetubeapp.io/>
 
-* [LibreTube](https://github.com/libre-tube/LibreTube) ⭐ 12,783 | 🐛 172 | 🌐 Kotlin | 📅 2026-10-06: Android frontend for YouTube, based on Piped
+* [LibreTube](https://github.com/libre-tube/LibreTube) ⭐ 12,786 | 🐛 172 | 🌐 Kotlin | 📅 2026-10-06: Android frontend for YouTube, based on Piped
 
-* [Piped](https://github.com/TeamPiped/Piped) ⭐ 10,269 | 🐛 324 | 🌐 Vue | 📅 2026-10-05: An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
-  * Public instances: <https://github.com/TeamPiped/Piped/wiki/Instances> ⭐ 10,269 | 🐛 324 | 🌐 Vue | 📅 2026-10-05
+* [Piped](https://github.com/TeamPiped/Piped) ⭐ 10,270 | 🐛 324 | 🌐 Vue | 📅 2026-10-07: An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
+  * Public instances: <https://github.com/TeamPiped/Piped/wiki/Instances> ⭐ 10,270 | 🐛 324 | 🌐 Vue | 📅 2026-10-07
   * Installation guide for self-hosting: <https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md> ⭐ 68 | 🐛 3 | 📅 2026-06-18
   * Official instance: <https://piped.video>
 
-* [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) ⭐ 9,336 | 🐛 84 | 🌐 Rust | 📅 2026-09-28: A cross-platform GUI for youtube-dl made in Electron and node.js
+* [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) ⭐ 9,340 | 🐛 84 | 🌐 Rust | 📅 2026-09-28: A cross-platform GUI for youtube-dl made in Electron and node.js
 
-* [mps-youtube](https://github.com/mps-youtube/mps-youtube) ⭐ 8,799 | 🐛 227 | 🌐 Python | 📅 2026-03-04: Terminal based YouTube player and downloader
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) ⭐ 8,800 | 🐛 227 | 🌐 Python | 📅 2026-03-04: Terminal based YouTube player and downloader
 
-* [TubeArchivist](https://github.com/tubearchivist/tubearchivist) ⭐ 8,500 | 🐛 25 | 🌐 Python | 📅 2026-08-28: A self hosted YouTube media server
+* [TubeArchivist](https://github.com/tubearchivist/tubearchivist) ⭐ 8,503 | 🐛 25 | 🌐 Python | 📅 2026-08-28: A self hosted YouTube media server
 
 * [uYouPlus](https://github.com/qnblackcat/uYouPlus) ⚠️ Archived: uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
 
-* [YouTube.js](https://github.com/LuanRT/YouTube.js) ⭐ 5,363 | 🐛 111 | 🌐 TypeScript | 📅 2026-10-03: Full-featured wrapper around the Innertube API, which is what YouTube itself uses
+* [YouTube.js](https://github.com/LuanRT/YouTube.js) ⭐ 5,365 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-07: Full-featured wrapper around the Innertube API, which is what YouTube itself uses
 
 * [ytfzf](https://github.com/pystardust/ytfzf) ⭐ 4,157 | 🐛 66 | 🌐 Shell | 📅 2024-09-27: A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
-* [yattee](https://github.com/yattee/yattee) ⭐ 3,729 | 🐛 228 | 🌐 Swift | 📅 2026-08-23: Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+* [yattee](https://github.com/yattee/yattee) ⭐ 3,732 | 🐛 228 | 🌐 Swift | 📅 2026-08-23: Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
 
-* [ytmdl](https://github.com/deepjyoti30/ytmdl) ⭐ 3,540 | 🐛 17 | 🌐 Python | 📅 2024-08-15: A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+* [ytmdl](https://github.com/deepjyoti30/ytmdl) ⭐ 3,541 | 🐛 17 | 🌐 Python | 📅 2024-08-15: A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 
-* [Tartube](https://github.com/axcore/tartube) ⭐ 3,162 | 🐛 23 | 🌐 Python | 📅 2026-09-21: A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+* [Tartube](https://github.com/axcore/tartube) ⭐ 3,166 | 🐛 23 | 🌐 Python | 📅 2026-09-21: A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 
 * [Alltube](https://github.com/Rudloff/alltube) ⚠️ Archived: Web GUI for youtube-dl
 
-* [TubeSync](https://github.com/meeb/tubesync) ⭐ 2,800 | 🐛 55 | 🌐 Python | 📅 2026-10-05: TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+* [TubeSync](https://github.com/meeb/tubesync) ⭐ 2,801 | 🐛 55 | 🌐 Python | 📅 2026-10-05: TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 
-* [SkyTube](https://github.com/SkyTubeTeam/SkyTube) ⭐ 2,788 | 🐛 268 | 🌐 Java | 📅 2026-09-18: An open-source YouTube app for Android
+* [SkyTube](https://github.com/SkyTubeTeam/SkyTube) ⭐ 2,787 | 🐛 268 | 🌐 Java | 📅 2026-09-18: An open-source YouTube app for Android
 
-* [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) ⭐ 2,107 | 🐛 88 | 🌐 Python | 📅 2025-09-13: Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+* [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) ⭐ 2,108 | 🐛 88 | 🌐 Python | 📅 2025-09-13: Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
-* [ViewTube](https://github.com/ViewTube/viewtube-vue) ⭐ 1,474 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-05: An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
+* [ViewTube](https://github.com/ViewTube/viewtube-vue) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-07: An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
 * [Youtube-viewer](https://github.com/trizen/youtube-viewer) ⭐ 1,316 | 🐛 47 | 🌐 Perl | 📅 2026-06-15: Lightweight YouTube client for Linux
 
@@ -100,9 +100,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 * [ytcast](https://github.com/MarcoLucidi01/ytcast) ⭐ 801 | 🐛 2 | 🌐 Go | 📅 2026-03-03: Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
 
-* [youtube-local](https://github.com/user234683/youtube-local) ⭐ 776 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-23: Browser-based client for watching Youtube anonymously and with greater page performance
+* [youtube-local](https://github.com/user234683/youtube-local) ⭐ 777 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-23: Browser-based client for watching Youtube anonymously and with greater page performance
 
-* [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local](https://github.com/user234683/youtube-local) ⭐ 776 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-23)
+* [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local](https://github.com/user234683/youtube-local) ⭐ 777 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-23)
 
 * [pipe-viewer](https://github.com/trizen/pipe-viewer) ⭐ 514 | 🐛 44 | 🌐 Perl | 📅 2026-09-24: A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
 
@@ -121,7 +121,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   * Official instance: <https://bocchilorenzo.github.io/invuedious>
 
 * [smtube](https://github.com/smplayer-dev/smtube) ⭐ 53 | 🐛 15 | 🌐 C++ | 📅 2023-05-28: Stand-alone YouTube video player
-  * SMPlayer repository: <https://github.com/smplayer-dev/smplayer> ⭐ 1,063 | 🐛 78 | 🌐 C++ | 📅 2026-10-06
+  * SMPlayer repository: <https://github.com/smplayer-dev/smplayer> ⭐ 1,062 | 🐛 79 | 🌐 C++ | 📅 2026-10-06
   * Website: <https://www.smtube.org>
   * SMTube is part of SMPlayer
   * SMPlayer website: <https://www.smplayer.info>
@@ -136,9 +136,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### YouTube Music
 
-* [th-ch/youtube-music](https://github.com/th-ch/youtube-music) ⭐ 33,670 | 🐛 715 | 🌐 TypeScript | 📅 2026-10-06: YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+* [th-ch/youtube-music](https://github.com/th-ch/youtube-music) ⭐ 33,677 | 🐛 715 | 🌐 TypeScript | 📅 2026-10-07: YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
 
-* [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) ⭐ 6,579 | 🐛 363 | 🌐 TypeScript | 📅 2026-10-05: Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
+* [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) ⭐ 6,582 | 🐛 363 | 🌐 TypeScript | 📅 2026-10-07: Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
 
 * [Beatbump](https://github.com/snuffyDev/Beatbump) ⚠️ Archived: An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
   * Official instance: <https://beatbump.ml/>
@@ -152,7 +152,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   * Official instance: [nitter.net](https://nitter.net)
   * Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
-* [Tweepy](https://github.com/tweepy/tweepy) ⭐ 11,183 | 🐛 105 | 🌐 Python | 📅 2026-07-02: Twitter for Python
+* [Tweepy](https://github.com/tweepy/tweepy) ⭐ 11,182 | 🐛 106 | 🌐 Python | 📅 2026-07-02: Twitter for Python
 
 * [Harpy](https://github.com/robertodoering/harpy) ⭐ 2,076 | 🐛 3 | 🌐 Dart | 📅 2024-08-01: Android, alternative front-end for Twitter, built with Flutter/Dart
 
@@ -168,11 +168,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Reddit
 
-* [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,530 | 🐛 163 | 🌐 Java | 📅 2026-09-25: Reddit client for Android
+* [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,529 | 🐛 163 | 🌐 Java | 📅 2026-09-25: Reddit client for Android
   * Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 
 * [Libreddit](https://github.com/libreddit/libreddit) ⭐ 5,200 | 🐛 196 | 🌐 Rust | 📅 2025-02-15: Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-  * Public instances: <https://github.com/libreddit/libreddit-instances/blob/master/instances.md> ⭐ 109 | 🐛 40 | 🌐 Shell | 📅 2026-10-05
+  * Public instances: <https://github.com/libreddit/libreddit-instances/blob/master/instances.md> ⭐ 109 | 🐛 40 | 🌐 Shell | 📅 2026-10-07
 
 * [Slide](https://github.com/ccrama/Slide) ⚠️ Archived: Open source, ad free Reddit browser for Android
   * Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
@@ -184,7 +184,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   * Forked from Dank: <https://github.com/saket/Dank> ⚠️ Archived
   * Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
 
-* [Eddrit](https://github.com/corenting/eddrit) ⭐ 190 | 🐛 11 | 🌐 Python | 📅 2026-10-05: Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
+* [Eddrit](https://github.com/corenting/eddrit) ⭐ 191 | 🐛 14 | 🌐 Python | 📅 2026-10-05: Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
 
 * [Snew](https://github.com/snew/snew) ⭐ 95 | 🐛 12 | 🌐 JavaScript | 📅 2022-08-22: Open-source client for Reddit forked from the Reddit source code
 
@@ -192,7 +192,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 * [Updoot](https://github.com/adityam49/Updoot) ⭐ 75 | 🐛 0 | 🌐 Kotlin | 📅 2023-04-18: Android, alternative front-end for Reddit
 
-* [Top of Reddit](https://github.com/mgerb/top-of-reddit) ⭐ 43 | 🐛 0 | 🌐 Go | 📅 2026-10-06: Top Reddit posts every day
+* [Top of Reddit](https://github.com/mgerb/top-of-reddit) ⭐ 43 | 🐛 0 | 🌐 Go | 📅 2026-10-07: Top Reddit posts every day
 
 * [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend) ⭐ 29 | 🐛 26 | 🌐 JavaScript | 📅 2023-08-09: A reddit front-end written in React
   * Official instance: <https://jpf-reddit.netlify.app>
@@ -217,7 +217,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### TikTok
 
-* [ProxiTok](https://github.com/pablouser1/ProxiTok) ⭐ 2,145 | 🐛 51 | 🌐 PHP | 📅 2025-05-31: Open source alternative frontend for TikTok made with PHP
+* [ProxiTok](https://github.com/pablouser1/ProxiTok) ⭐ 2,146 | 🐛 51 | 🌐 PHP | 📅 2025-05-31: Open source alternative frontend for TikTok made with PHP
   * Official instance: <https://proxitok.pabloferreiro.es/>
 
 ### Imgur
@@ -243,15 +243,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Spotify
 
-* [spotube](https://github.com/KRTirtho/spotube) ⭐ 49,656 | 🐛 869 | 🌐 Dart | 📅 2026-10-06: A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
+* [spotube](https://github.com/KRTirtho/spotube) ⭐ 49,674 | 🐛 869 | 🌐 Dart | 📅 2026-10-07: A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
 
-* [SpotX](https://github.com/amd64fox/SpotX) ⭐ 22,612 | 🐛 2 | 🌐 PowerShell | 📅 2026-10-02: Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
+* [SpotX](https://github.com/amd64fox/SpotX) ⭐ 22,634 | 🐛 3 | 🌐 PowerShell | 📅 2026-10-07: Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
 
-* [spotifyd](https://github.com/Spotifyd/spotifyd) ⭐ 10,786 | 🐛 76 | 🌐 Rust | 📅 2026-05-28: unix daemon, using librespot.
+* [spotifyd](https://github.com/Spotifyd/spotifyd) ⭐ 10,790 | 🐛 76 | 🌐 Rust | 📅 2026-05-28: unix daemon, using librespot.
 
 * [psst](https://github.com/jpochyla/psst) ⭐ 9,482 | 🐛 154 | 🌐 Rust | 📅 2026-08-18: Fast and multi-platform Spotify client with native GUI
 
-* [librespot](https://github.com/librespot-org/librespot) ⭐ 7,229 | 🐛 150 | 🌐 Rust | 📅 2026-10-05: Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
+* [librespot](https://github.com/librespot-org/librespot) ⭐ 7,244 | 🐛 153 | 🌐 Rust | 📅 2026-10-05: Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
 
 * [spot](https://github.com/xou816/spot) ⭐ 2,366 | 🐛 114 | 🌐 Rust | 📅 2025-10-13: Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
 
@@ -271,7 +271,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 * [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) ⭐ 2,868 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-01: Multi platform Twitch.tv browser for Streamlink
 
-* [Xtra](https://github.com/crackededed/Xtra) ⭐ 2,291 | 🐛 192 | 🌐 Kotlin | 📅 2026-10-05: Twitch player and browser for Android
+* [Xtra](https://github.com/crackededed/Xtra) ⭐ 2,290 | 🐛 192 | 🌐 Kotlin | 📅 2026-10-05: Twitch player and browser for Android
 
 * [Twire](https://github.com/twireapp/Twire) ⭐ 1,305 | 🐛 111 | 🌐 Kotlin | 📅 2026-07-10: Alternative and open source Twitch client for Android
 
@@ -280,11 +280,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Discord
 
 * [openasar](https://github.com/GooseMod/OpenAsar) ⭐ 3,036 | 🐛 64 | 🌐 JavaScript | 📅 2026-07-24: An open-source alternative of Discord desktop's app.asar
-* [gtkcord4](https://github.com/diamondburned/gtkcord4) ⭐ 1,855 | 🐛 138 | 🌐 Go | 📅 2026-10-05: A lightweight Discord client written in Golang which uses GTK3 for the user interface
+* [gtkcord4](https://github.com/diamondburned/gtkcord4) ⭐ 1,856 | 🐛 139 | 🌐 Go | 📅 2026-10-05: A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 ### Google Search
 
-* [SearXNG](https://github.com/searxng/searxng) ⭐ 38,039 | 🐛 193 | 🌐 Python | 📅 2026-10-04: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
+* [SearXNG](https://github.com/searxng/searxng) ⭐ 38,083 | 🐛 190 | 🌐 Python | 📅 2026-10-07: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
 
 * [Searx](https://github.com/searx/searx) ⭐ 13,556 | 🐛 337 | 🌐 Python | 📅 2026-05-14: Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
   * Public instances: <https://searx.space>
@@ -299,8 +299,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived: Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
-* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,849 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01: Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
-  * Public instances: <https://github.com/TheDavidDelta/lingva-translate#instances> ⭐ 1,849 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
+* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,850 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01: Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+  * Public instances: <https://github.com/TheDavidDelta/lingva-translate#instances> ⭐ 1,850 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
   * Official instance: [lingva.ml](https://lingva.ml)
 
 * [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid) ⭐ 510 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-26: Unofficial Android client for DeepL
@@ -323,7 +323,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Facebook Messenger
 
-* [Caprine](https://github.com/sindresorhus/caprine) ⭐ 7,393 | 🐛 293 | 🌐 TypeScript | 📅 2026-01-02: Unofficial and privacy-focused Facebook Messenger app with many useful features
+* [Caprine](https://github.com/sindresorhus/caprine) ⭐ 7,392 | 🐛 293 | 🌐 TypeScript | 📅 2026-01-02: Unofficial and privacy-focused Facebook Messenger app with many useful features
 
 ### Mastodon
 
@@ -331,7 +331,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 * [Pinafore](https://github.com/nolanlawson/pinafore) ⭐ 1,032 | 🐛 170 | 🌐 JavaScript | 📅 2026-04-26: Alternative web client for Mastodon, focused on speed and simplicity **[Unmaintained](https://nolanlawson.com/2023/01/09/retiring-pinafore/)**
 
-* [Sengi](https://github.com/NicolasConstant/sengi) ⭐ 566 | 🐛 134 | 🌐 TypeScript | 📅 2026-06-12: cross-platform multi-account Mastodon & Pleroma desktop client
+* [Sengi](https://github.com/NicolasConstant/sengi) ⭐ 565 | 🐛 134 | 🌐 TypeScript | 📅 2026-06-12: cross-platform multi-account Mastodon & Pleroma desktop client
 
 * [TheDesk](https://github.com/cutls/TheDesk) ⚠️ Archived: cross-platform Mastodon & Misskey desktop client
 
@@ -374,7 +374,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Shazam
 
-* [SongRec](https://github.com/marin-m/SongRec) ⭐ 1,984 | 🐛 71 | 🌐 Rust | 📅 2026-10-06: Open-source Shazam client for Linux, written in Rust
+* [SongRec](https://github.com/marin-m/SongRec) ⭐ 1,985 | 🐛 71 | 🌐 Rust | 📅 2026-10-06: Open-source Shazam client for Linux, written in Rust
 
 ### Telegram
 
@@ -399,24 +399,24 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Other services
 
-* [vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 68,621 | 🐛 93 | 🌐 Rust | 📅 2026-10-06: Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+* [vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 68,665 | 🐛 89 | 🌐 Rust | 📅 2026-10-07: Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
-* [gitea](https://github.com/go-gitea/gitea) ⭐ 58,339 | 🐛 2,455 | 🌐 Go | 📅 2026-10-06: Lightweight git server. Git with a cup of tea, painless self-hosted git service
+* [gitea](https://github.com/go-gitea/gitea) ⭐ 58,351 | 🐛 2,463 | 🌐 Go | 📅 2026-10-07: Lightweight git server. Git with a cup of tea, painless self-hosted git service
 
-* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,698 | 🐛 160 | 🌐 Python | 📅 2026-10-06: Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
+* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,701 | 🐛 158 | 🌐 Python | 📅 2026-10-07: Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 
-* [etherpad-lite](https://github.com/ether/etherpad-lite) ⭐ 18,570 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-06: Collaborative rich text editor. A modern really-real-time collaborative document editor
+* [etherpad-lite](https://github.com/ether/etherpad-lite) ⭐ 18,572 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-07: Collaborative rich text editor. A modern really-real-time collaborative document editor
 
-* [PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,653 | 🐛 208 | 🌐 PHP | 📅 2026-10-06: Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
+* [PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,658 | 🐛 208 | 🌐 PHP | 📅 2026-10-06: Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
-* [hedgedoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,462 | 🐛 277 | 🌐 TypeScript | 📅 2026-10-06: Collaborative markdown editor. A platform to write and share markdown
+* [hedgedoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,466 | 🐛 276 | 🌐 TypeScript | 📅 2026-10-07: Collaborative markdown editor. A platform to write and share markdown
 
-* [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb) ⭐ 1,191 | 🐛 109 | 🌐 Svelte | 📅 2026-05-17: Video content of German public-service television broadcasters (e.g. ARD, ZDF)
+* [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb) ⭐ 1,192 | 🐛 109 | 🌐 Svelte | 📅 2026-05-17: Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   * Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
 
 * [NoPaste](https://github.com/bokub/nopaste) ⭐ 450 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-03: NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
 
-* [snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15: Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
+* [snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15: Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
 
 * [Pastewin](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
 
@@ -429,7 +429,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Redirection
 
-* [libredirect](https://github.com/libredirect/libredirect) ⭐ 4,074 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-30: A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+* [libredirect](https://github.com/libredirect/libredirect) ⭐ 4,075 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-30: A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
   * [Firefox Add-On](https://addons.mozilla.org/firefox/addon/libredirect/)
   * [Chrome Extension](https://libredirect.github.io/download_chromium.html)
 
@@ -447,15 +447,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Related projects
 
-* [uBlock Origin](https://github.com/gorhill/uBlock) ⭐ 68,375 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-06: An efficient blocker for Chromium and Firefox. Fast and lean
+* [uBlock Origin](https://github.com/gorhill/uBlock) ⭐ 68,391 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-07: An efficient blocker for Chromium and Firefox. Fast and lean
   * [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
   * [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-* [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,915 | 🐛 619 | 🌐 Python | 📅 2026-10-01: A curated list of services and alternatives that respect your privacy because privacy matters.
+* [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,921 | 🐛 622 | 🌐 Python | 📅 2026-10-01: A curated list of services and alternatives that respect your privacy because privacy matters.
 
 * [Matrix.org's Synapse](https://github.com/matrix-org/synapse) ⚠️ Archived: End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
 
-* [StreetComplete](https://github.com/streetcomplete/StreetComplete) ⭐ 5,040 | 🐛 138 | 🌐 Kotlin | 📅 2026-10-06: Easy to use OpenStreetMap editor for Android
+* [StreetComplete](https://github.com/streetcomplete/StreetComplete) ⭐ 5,042 | 🐛 133 | 🌐 Kotlin | 📅 2026-10-07: Easy to use OpenStreetMap editor for Android
 
 * [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
   * Note: The source code of 12ft Ladder is not available under a free/open-source license.
@@ -476,4 +476,4 @@ Therefore the name `alternative front-ends` does not capture the full scope of t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
